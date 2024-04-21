@@ -5,6 +5,8 @@
     - go to window application and search command prompt and type these command:-
         - node -v
         - npm -v
-    go to vsc and go to terminal type these command:-
+    - go to vsc and go to terminal type these command:-
         - node -v
         - npm i
+        - then you will have the file "package-lock.json"
+        - but it is use in advance js we will learn very soon
