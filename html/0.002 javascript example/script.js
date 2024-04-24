@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     container.addEventListener("mouseover", () => {
-        //containor=document.querySelector(".containor");
+        //containor=document.querySelector(".containor")
         
         container.classList.add("at");
         //this mean to add class at in .containor
