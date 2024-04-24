@@ -7,7 +7,7 @@ app.get('/hello', (req, res) => {
   res.send('Hello from Express!');
 });
 app.get('/hi', (req, res) => {
-  res.send('Hi from Express!');
+  res.send('Hi from Expressjs!');
 });
 app.get('/', (req, res) => {
   res.send('this is express!');
