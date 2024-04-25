@@ -1,0 +1,6 @@
+- make a animation with express js 
+- there should be a meanu button if it is clicked the menu bar should be open smothly the meanu bar must include these things :-
+    - home
+    - profile
+    - project 
+    - message
