@@ -5,6 +5,7 @@
     - go to window application and search command prompt and type these command:-
         - node -v
         - npm -v
+        
     - go to vsc and go to terminal type these command:-
         - node -v
         - npm i

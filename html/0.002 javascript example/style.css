@@ -1,7 +1,7 @@
 .containor{
     height: 60px;
     width: 500px;
-    background-color: aquamarine;
+    background-color: rgb(127, 255, 212);
     display: flex;
     overflow: hidden;
     border: 2px solid;

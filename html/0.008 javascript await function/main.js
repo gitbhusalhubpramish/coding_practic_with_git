@@ -21,4 +21,4 @@ async function main() {
     await fun1();
     console.log("hello console");
 }
-main()
+main();

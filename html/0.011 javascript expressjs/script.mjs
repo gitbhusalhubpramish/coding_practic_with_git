@@ -1,4 +1,4 @@
-//this file must named .mjs
+//this file must be named .mjs
 import { createServer } from 'http'; 
 import express from 'express'; 
 const app = express();

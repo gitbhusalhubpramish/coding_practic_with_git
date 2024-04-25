@@ -1,4 +1,4 @@
-
+//file io
 const fs = require("fs");
 //it make and write in file
 fs.writeFileSync("html/0.010 javascript file io/file.txt", "hello \nhi");

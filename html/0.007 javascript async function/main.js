@@ -2,7 +2,7 @@
 async function fun1() {
     setTimeout(() => {
       console.log("hello fun1");
-    }, 2000); // 2000 milliseconds = 2 seconds
+    }, 2000); // 2000 milliseconds = 2 seconds(it is measute in ms)
   }
 setTimeout(()=>{
   console.log("hello settimeout")

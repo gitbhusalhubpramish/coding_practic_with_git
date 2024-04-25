@@ -10,7 +10,7 @@ function fun2(data){
 fun1(fun2)*/
 //it mean callback is a argument where we pass function inset of variable
 function fun1(callback){
-    let data = "this is data"
+    let data = "this is a data"
     console.log("hello",data)
     callback(data)
 }
