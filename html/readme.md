@@ -1,1 +1,0 @@
-- I hope you know CSS and html in this reprosetry so, I'll not teach html and CSS
