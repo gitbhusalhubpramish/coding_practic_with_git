@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start0.003index.html": "node webdev/0.003 javascript consol/index.html"
   },
   "keywords": [],
   "author": "",
