@@ -4,7 +4,7 @@ import express from 'express';
 const app = express();
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-const port = 3000;//this is a port when you change it the host(url) changes like if you make port 3000 the url will be 127.0.0.1:3000 
+const port = 3000; //this is a port when you change it the host(url) changes like if you make port 3000 the url will be 127.0.0.1:3000 
 // this is a get request here if you pass `/` and write any thing and write some code in the place of res.send('Hello from Express!'); the code will be seen in `$(url)/$(what u write in /) we can also link file by res.sendfile('Html file .html');
 app.get('/hello', (req, res) => {
   res.send('Hello from Express!');
