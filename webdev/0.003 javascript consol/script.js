@@ -7,4 +7,3 @@ console.warn("there is no warning")
 //it console the warning
 console.info("there is no info")
 //it console the info
-window.open//ignore it i am using it for resolving my personal problem
