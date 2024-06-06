@@ -18,3 +18,5 @@ function fun2(data){
     console.log("hi",data)
 }
 fun1(fun2)
+//here we pass function in argument and in argument we pass variable and in variable we pass function
+//so the output is `hello this is a data hi this is a data`
