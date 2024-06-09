@@ -50,3 +50,4 @@ const afun1 = (con)=>{//this is a arrow function in a variable like here. we del
 let afun1hello="hello from arrow"
 afun1(afun1hello)
 //in arrow function other all is same
+// we can 
