@@ -4,3 +4,6 @@
     - profile
     - project 
     - message
+    - blog
+    - doc
+- sorry to say but it is useless in backend  it is a stupid plan to make this in backend is must be in frontend but we are learning backend so do in backend we are going to learn frontend as soon as possible

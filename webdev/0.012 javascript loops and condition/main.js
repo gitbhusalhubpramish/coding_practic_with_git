@@ -185,6 +185,10 @@ if(1==3){
 else{
   console.log(2)
 }
+//if else in short
+let a =1
+a = 1 ? console.log(1,"if else in short") : console.log(2,"if else in short")
+
 //switch case condition
 //switch case condition is used to check the value of variable and if the value is equal to any value then it will run the
 console.log("switch case condition")
