@@ -1,0 +1,13 @@
+- here you are going to learn js we have to download nodejs now to run js it is very important in js
+- go to this url and follow these step url:- https://nodejs.org/en/download
+    - download nodejs
+    - innistal it
+    - go to window application and search command prompt and type these command:-
+        - node -v
+        - npm -v
+        
+    - go to vsc and go to terminal type these command:-
+        - node -v
+        - npm i
+        - then you will have the file "package-lock.json"
+        - but it is use in advance js we will learn very soon
