@@ -1,4 +1,0 @@
-- I hope you know css and html in this reprosetry I'll not teach html and css
-- here we're going to learn full stack devlopment (frountend and backend)
-- but we will not spent money for dom designing it will be 100% free
-- It doesn't mean we don't learn host etc we gonna learn it also
