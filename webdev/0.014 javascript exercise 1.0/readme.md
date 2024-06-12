@@ -1,9 +1,7 @@
-- make a animation with express js 
-- there should be a meanu button if it is clicked the menu bar should be open smothly the meanu bar must include these things :-
-    - home
-    - profile
-    - project 
-    - message
-    - blog
-    - doc
-- sorry to say but it is useless in backend  it is a stupid plan to make this in backend is must be in frontend but we are learning backend so do in backend we are going to learn frontend as soon as possible
+- make following programm using js
+	- bubble short
+		- if user give random input you must short it and console + write in a file
+	- declaring odd or even 
+ 		-if user give random input you must short it and console + write in a file
+	- make a class for industry
+		- it has number of employ, income, tax, loan, etc
