@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-int main(){
+int main(){//this is a main methode the program only see main methode
 	string a;
 	cout<<"enter any things"<<endl;
 	cin>>a;
