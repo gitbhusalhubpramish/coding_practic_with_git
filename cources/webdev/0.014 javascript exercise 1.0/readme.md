@@ -1,0 +1,7 @@
+- make following programm using js
+	- bubble short
+		- if user give random input you must short it and console + write in a file
+	- declaring odd or even 
+ 		-if user give random input you must short it and console + write in a file
+	- make a class for industry
+		- it has number of employ, income, tax, loan, etc

@@ -20,3 +20,7 @@ ignorePorts = false
 localPort = 3000
 externalPort = 80
 exposeLocalhost = true
+
+[[ports]]
+localPort = 8080
+externalPort = 8080
