@@ -1,5 +1,4 @@
-- from today we are going to start new c++ cource 
-- we will learn in detail about c++
+
 # Introduction to C++
 
 ## Overview
@@ -37,3 +36,6 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
+```
+# which file to look
+In cpp we don't have too much file which we don't need you just leave `.exe` file and visit `.cpp` file
