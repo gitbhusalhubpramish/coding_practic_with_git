@@ -10,6 +10,7 @@ print (a)
 #6. tuple
 #8. set
 #9. none
+
 # int
 b = 1#this is a int data type varible int mean integer
 print(b)
