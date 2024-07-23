@@ -14,5 +14,5 @@ If you make any unnecessary changes, such as deleting important files, changing 
 ## Visiting Files
 There are some package files which are important but do not need to be read. Files like `package-lock.json`, `package.json`, etc., do not need your attention. Instead, visit the `source` folder and learn in the following order: first web development, then C++, then Python, and so on. Read serially. If there is a folder whose sub-folder names start with this pattern: `0.001 {main content}`, `0.002 {main content}`, etc., visit `0.001 {main content}` first, then `0.002 {main content}`, and so on.
 
-## Installing Software Packages
+## Installing Software, Packages
 I recommend you use VS Code as an IDE. Other necessary installations include MinGW, Node.js, Python, and pip.
