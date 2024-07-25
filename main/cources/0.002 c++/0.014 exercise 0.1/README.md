@@ -1,5 +1,5 @@
 # Exercise
-As usal there's gonna be exercise about what I touch till now here is the exercise guidline
+As usal there's gonna be exercise about what I taught till now here is the exercise guidline
 ## Exercixe no.1 - Displaying Fibonacci Number
 ### what to make
 Make a program which display the number of fibonacci series at what user give input like I enter 5 it must display the number at posotion of fibonacci series which I enter.
