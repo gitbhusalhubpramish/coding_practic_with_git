@@ -100,6 +100,18 @@ public class Main {
     }
 }
 ```
+## How to run
+- **Make a file**: Make a file named `Main.java` and write some code.
+- **Compile**:
+  compile the file by this command:
+  ```sh
+  javac Main.java
+  ```
+- **Run the compiled file**:
+  Run the file by this command
+  ```sh
+  java Main
+  ```
 ## Conclusion
 Java is a versatile and powerful programming language widely used for building enterprise-scale applications, mobile applications, and web applications. Its platform independence, robust security features, and rich API set make it a popular choice among developers around the world.
 
