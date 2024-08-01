@@ -11,7 +11,15 @@ After teaching you about a topic, I will give you some exercises. If you solve t
 - **Help**: You can't ask help to any one if you have any confusion ask me in Discussion in github
 - **Error, Accuraty and Efficiency**There must be 0 error
 - **Explanation**: Tell every things like why did you use this function in comment(`//`) or you can make a markdown  file to define it.
-
+### Branch
+If you are a new member make a new branch by your name. Some times I may forget to merge branch you merge your self
+- go to [pullrequest](https://github.com/gitbhusalhubpramish/coding_practic_with_git/pulls)
+- in compare set base to your branch and in compare set main
+- click [new pull request](https://github.com/gitbhusalhubpramish/coding_practic_with_git/compare)
+- add title
+- create pull request
+- scroll down untill you find squat and merg
+- conform
 ### Unnecessary Changes; Deleting Important Files, Changing Filenames, Changing Definitions, etc.
 If you make any unnecessary changes, such as deleting important files, changing filenames, changing definitions, etc., you will be removed from this repository.
 
