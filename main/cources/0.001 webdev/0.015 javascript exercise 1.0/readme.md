@@ -5,14 +5,14 @@
 #### Exercise
 - Create a JavaScript program that takes a random array of numbers as input.
 - Sort the array using the Bubble Sort algorithm.
-- Print the sorted array to the console and write it to a file.
+- Print the sorted array to the consol.
 
 ### 2. Declaring Odd or Even
 
 #### Exercise
 - Create a JavaScript program that takes a random array of numbers as input.
 - Determine if each number is odd or even.
-- Print the result to the console and write it to a file.
+- Print the result to the console.
 
 ### 3. Class for Industry
 
