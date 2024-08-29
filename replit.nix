@@ -1,5 +1,7 @@
 {pkgs}: {
   deps = [
+    pkgs.http-server
+    pkgs.xiu
     pkgs.temurin-jre-bin
     pkgs.zulu11
     pkgs.ihaskell

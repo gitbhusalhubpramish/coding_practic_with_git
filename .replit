@@ -22,5 +22,8 @@ externalPort = 80
 exposeLocalhost = true
 
 [[ports]]
+localPort = 3001
+
+[[ports]]
 localPort = 8080
 externalPort = 8080
