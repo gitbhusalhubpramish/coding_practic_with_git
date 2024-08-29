@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", function() {
         event.preventDefault();
         const num = inputField.value;  // Get the value of the input field
         await oddoreven(num);  // Pass the value to the oddoreven function
-        output.innerHTML = iseven ? 'the number is even' : 'teh number is odd'
+        output.innerHTML = iseven ? 'the number is even' : 'the number is odd'
     });
 });
