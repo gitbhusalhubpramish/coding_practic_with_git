@@ -27,4 +27,6 @@
 - Ask for a username
 - Ask to set a password
 - Ask to confirm the password; if the password and confirmation do not match, display an error message and ask again
-- Ask for the password to log in; if the entered password matches the set password, display a login success messa
+- Ask for the password to log in; if the entered password matches the set password, display a login success message
+## subbimition date
+nov. 10
