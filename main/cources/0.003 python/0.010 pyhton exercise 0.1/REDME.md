@@ -50,3 +50,5 @@
 ### Exercise 8: Script Execution
 - Write a script that contains a function `main()` which prints "This script is running directly".
 - Use the `if __name__ == "__main__"` statement to call the `main()` function only when the script is executed directly, not when imported as a module.
+## subbmition date
+outu 16
